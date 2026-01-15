@@ -1,0 +1,18 @@
+# Jekyll Configuration for Vorograd Lore Bible
+title: Vorograd Lore Bible
+description: A Compendium of Lore for Road to Vorograd
+
+# Theme Settings
+theme: jekyll-theme-hacker
+
+# Basic Settings
+baseurl: ""
+url: "https://bigy0shi.github.io"
+
+# Build settings
+markdown: kramdown
+
+# Exclude files from Jekyll build
+exclude:
+  - README.md
+  - .gitignore
